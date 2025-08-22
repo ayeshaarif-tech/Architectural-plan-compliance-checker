@@ -1,0 +1,12 @@
+{
+  "name": "architectural-compliance-checker",
+  "version": "1.0.0",
+  "description": "Modern architectural-themed web application for compliance checking",
+  "dependencies": {
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.8.2"
+  },
+  "devDependencies": {
+    "@types/jspdf": "^2.3.0"
+  }
+}
